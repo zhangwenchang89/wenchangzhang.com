@@ -1,4 +1,13 @@
 ---
+# ── JOB TITLE APPEARS THREE TIMES. On promotion, change all three: ──────────
+#   1. `jobtitle` below  → the schema.org/Person JSON-LD (machine-readable)
+#   2. `description`     → the sentence Google prints in search results
+#   3. the opening line of the bio, further down this file
+# Two of the three are invisible on the page. Missing one leaves search engines
+# and search results claiming a title you no longer hold.
+# Avoid "&" here: pandoc escapes template variables to &amp;, and entities are
+# not decoded inside a <script> block, so it would land literally in the JSON-LD.
+jobtitle: "Assistant Professor of Operations and Decision Technologies"
 pagetitle: "Wenchang Zhang | Kelley School of Business, Indiana University"
 ogtitle: "Wenchang Zhang — Kelley School of Business, Indiana University"
 description: "Assistant Professor at Indiana University's Kelley School of Business. Research on platform operations, online market design, and digital marketplaces."

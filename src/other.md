@@ -41,6 +41,23 @@ big_headings: true
 -   *M&SOM* Meritorious Service Award, 2024, 2025
 -   *Management Science* Distinguished Service Award, 2023
 
+## Ph.D. Students
+
+### Current
+
+-   Jieqi Di, Georgia Institute of Technology
+-   Yu Guo, University of Science and Technology of China
+-   Mengfei Li, Fudan University
+-   Ling Li, Indiana University
+-   Wanling Rong, Indiana University
+-   Feifei Song, The Hong Kong Polytechnic University
+-   Xinmeng Xu, Tianjin University
+-   Zhanzhi Zheng, University of North Carolina at Chapel Hill
+
+### Graduated
+
+-   Zhikun Lu, Emory University (Assistant Professor at New York University, Shanghai)
+
 ## Invited Seminars
 
 -   2025\. Rideshare Seminar @Lyft; Cornell; University of Wisconsin
@@ -51,7 +68,10 @@ big_headings: true
 ## Service
 
 -   **Associate Editor:** *Decision Sciences*
--   **Ad-hoc reviewer:** *Management Science*, *Operations Research*, *Manufacturing & Service Operations Management*, *Production and Operations Management*, *MIS Quarterly*, *INFORMS Journal on Computing*, *European Journal of Operational Research*
+-   **Ad-hoc reviewer:** *Management Science*, *Operations Research*, *Manufacturing & Service Operations Management*, *Information Systems Research*, *Production and Operations Management*, *MIS Quarterly*, *Journal of Operations Management*, *INFORMS Journal on Computing*, *European Journal of Operational Research*, Israel Science Foundation
+-   **Judge:** Best Working Paper Competition for TIMES Section of INFORMS (2023, 2026); INFORMS BOM Best Working Paper Competition (2025, 2026); INFORMS PSOR Paper Award Competition (2026); INFORMS Service Science Best Paper Competition (2026)
+-   **Conference program committee:** MSOM (2021)
+-   **Session chair:** INFORMS (2020 – present); POM (2023 – present)
 
 ## Industry Collaboration {.small-heading}
 
