@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>$pagetitle$</title>
+<meta name="description" content="$description$">
+$if(keywords)$<meta name="keywords" content="$keywords$">
+$endif$<link rel="canonical" href="https://www.wenchangzhang.com/$canonical$">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Wenchang Zhang 张文昌">
+<meta property="og:title" content="$ogtitle$">
+<meta property="og:description" content="$description$">
+<meta property="og:url" content="https://www.wenchangzhang.com/$canonical$">
+<meta property="og:image" content="https://www.wenchangzhang.com/assets/headshot.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="$ogtitle$">
+<meta name="twitter:description" content="$description$">
+<meta name="twitter:image" content="https://www.wenchangzhang.com/assets/headshot.jpg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;700&family=Lora:wght@400;500&family=Montserrat:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="/assets/style.css">
+$if(is_research)$
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Wenchang Zhang",
+  "alternateName": "张文昌",
+  "url": "https://www.wenchangzhang.com/",
+  "image": "https://www.wenchangzhang.com/assets/headshot.jpg",
+  "jobTitle": "Assistant Professor of Operations & Decision Technologies",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Kelley School of Business, Indiana University",
+    "url": "https://kelley.iu.edu/"
+  },
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "University of Maryland, Robert H. Smith School of Business" },
+    { "@type": "CollegeOrUniversity", "name": "University of California, Berkeley" },
+    { "@type": "CollegeOrUniversity", "name": "Tsinghua University" }
+  ],
+  "knowsAbout": [
+    "Platform operations", "Online market design", "Operations management",
+    "Structural estimation", "Causal inference"
+  ],
+  "sameAs": [
+    "https://scholar.google.com/citations?user=IVK3-cAAAAAJ",
+    "https://orcid.org/0000-0002-1756-0747",
+    "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2790636",
+    "https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=WENCZHAN"
+  ]
+}
+</script>
+$endif$</head>
+<body>
+
+<header class="site-header">
+  <div class="bar">
+    <h1 class="logo"><a href="/">Wenchang Zhang 张文昌</a></h1>
+    <nav aria-label="Main">
+      <ul class="site-nav">
+        <li><a href="/"$if(is_research)$ aria-current="page"$endif$>Research</a></li>
+        <li><a href="/teaching.html"$if(is_teaching)$ aria-current="page"$endif$>Teaching</a></li>
+        <li><a href="/other.html"$if(is_other)$ aria-current="page"$endif$>Other</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="hero" style="background-image:url('/assets/hero-$hero$.jpg')">
+  <video autoplay loop muted playsinline poster="/assets/hero-$hero$.jpg" aria-hidden="true" tabindex="-1">
+    <source src="/assets/hero-$hero$.mp4" type="video/mp4">
+  </video>
+  <div class="inner">
+$if(is_research)$
+    <img src="/assets/headshot.jpg" width="185" height="185" alt="Wenchang Zhang">
+    <div class="profile-links">
+      <a href="https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=WENCZHAN">Official Website</a><br>
+      <a href="https://scholar.google.com/citations?user=IVK3-cAAAAAJ">Google Scholar</a><br>
+      <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2790636">SSRN Profile</a><br>
+      <a href="https://orcid.org/0000-0002-1756-0747">ORCID</a>
+    </div>
+$endif$
+  </div>
+</section>
+
+<main class="content$if(big_headings)$ big-headings$endif$">
+$body$
+</main>
+
+<footer class="site-footer">
+  <ul>
+    <li><a href="/">Research</a></li>
+    <li><a href="/teaching.html">Teaching</a></li>
+    <li><a href="/other.html">Other</a></li>
+  </ul>
+</footer>
+
+</body>
+</html>

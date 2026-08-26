@@ -1,0 +1,349 @@
+/* wenchangzhang.com
+ *
+ * Reproduces the visual design of the previous Weebly "Unite" theme. Every
+ * value here was read off the live site before migration — from the theme
+ * stylesheet, the generated inline block, or per-element inline styles,
+ * whichever actually won the cascade. Deliberate departures are marked.
+ *
+ * Single-theme by intent: the site is light-only, so every colour is painted
+ * explicitly and no dark-mode blocks are declared.
+ */
+
+:root {
+  --ground: #ffffff;
+  --ink: #2a2a2a;        /* body copy */
+  --link: #111111;       /* links: no underline, a shade darker than body */
+  --accent: #a82e2e;     /* paper titles */
+  --hero-link: #d5d5d5;
+  --rule: rgba(0, 0, 0, 0.05);
+  --scrim: rgba(0, 0, 0, 0.15);
+  --sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --display: "Josefin Sans", var(--sans);              /* nav */
+  --body: "Montserrat", var(--sans);                   /* title, headings, copy */
+  --serif: "Lora", Georgia, "Times New Roman", serif;  /* hero paragraph */
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ---------- header (position: fixed, as on the old site) ---------------- */
+
+.site-header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 10;
+  background: var(--ground);
+  border-bottom: 1px solid var(--rule);
+  padding: 5px 40px;
+}
+
+.site-header .bar {
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+/* #wsite-title was Montserrat bold 18px */
+.logo {
+  flex: 0 0 25%;
+  margin: 0;
+  font-family: var(--body);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+.logo a { color: inherit; text-decoration: none; }
+
+.site-nav {
+  flex: 1 1 auto;
+  display: flex;
+  justify-content: center;
+  gap: 34px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.site-nav a {
+  font-family: var(--display);
+  font-size: 13px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ink);
+  text-decoration: none;
+  padding-bottom: 3px;
+  border-bottom: 1px solid transparent;
+}
+
+.site-nav a:hover,
+.site-nav a[aria-current="page"] { border-bottom-color: var(--ink); }
+
+/* ---------- hero -------------------------------------------------------- */
+
+/* Content-height, as the old section carried an inline height:auto. */
+.hero {
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+}
+
+.hero video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border: 0;
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--scrim);
+}
+
+/* .banner-wrap .container was padding: 180px 40px 60px under a fixed nav */
+.hero .inner {
+  position: relative;
+  z-index: 1;
+  max-width: 1366px;
+  margin: 0 auto;
+  padding: 180px 40px 60px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.hero img {
+  width: 185px;
+  max-width: 100%;
+  display: block;
+  border: 0;
+}
+
+/* .wsite-header-section .paragraph was Lora 400, text-transform: none */
+.profile-links {
+  font-family: var(--serif);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.15em;
+  text-align: right;
+  /* the old markup opened this block with two <br>, offsetting it ~2 lines */
+  margin-top: 54px;
+}
+
+.profile-links a {
+  color: var(--hero-link);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.profile-links a:hover { color: #ffffff; }
+
+/* ---------- content ----------------------------------------------------- */
+
+/* .main-wrap .container was max-width: 1366px; padding: 60px 40px */
+.content {
+  max-width: 1366px;
+  margin: 0 auto;
+  padding: 60px 40px;
+}
+
+/* .wsite-content-title was Montserrat 700, 30px, letter-spacing 1px */
+.content h2 {
+  font-family: var(--body);
+  font-weight: 700;
+  font-size: 30px;
+  color: var(--ink);
+  letter-spacing: 1px;
+  line-height: 1.2;
+  margin: 42px 0 18px;
+  text-wrap: balance;
+}
+
+.content h2:first-child { margin-top: 0; }
+
+/* the Other page set these headings at <font size="6"> */
+.content.big-headings h2 { font-size: 32px; }
+.content.big-headings h2.small-heading { font-size: 30px; }
+
+.content h3 {
+  font-family: var(--body);
+  font-size: 16px;
+  font-weight: 700;
+  margin: 20px 0 4px;
+}
+
+/* Body copy: 16px / 30px */
+.content p,
+.content li {
+  font-family: var(--body);
+  font-size: 16px;
+  line-height: 30px;
+  color: var(--ink);
+}
+
+.content ul { margin: 6px 0 0; padding-left: 40px; }
+.content li { margin-bottom: 2px; }
+
+/* Links: underline removed, distinguished by a darker ink instead. Underline
+ * returns on hover so the link stays discoverable, and keyboard focus keeps a
+ * visible ring. Deliberate departure — the old site underlined every link. */
+.content a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+.content a:hover { text-decoration: underline; }
+
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+/* ---------- bio --------------------------------------------------------- */
+
+.bio { text-align: center; }
+.bio p { margin: 0 0 30px; }
+.bio p:last-child { font-size: 13px; }
+
+/* ---------- note under a section heading -------------------------------- */
+
+.note p {
+  font-size: 13px;
+  line-height: 30px;
+  margin: 0 0 8px;
+}
+
+/* ---------- paper lists -------------------------------------------------
+ * Markdown shape, per entry:
+ *     -   **Title**, with coauthors. [SSRN]
+ *
+ *         Venue / status line.          <- optional, plain, unbulleted
+ *
+ *         -   award / presentation      <- optional, bulleted and indented
+ */
+
+.papers > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.papers > ul > li { margin: 0; }
+
+/* title + coauthor line */
+.papers > ul > li > p:first-child {
+  font-size: 16px;
+  line-height: 30px;
+  margin: 0;
+}
+
+.papers > ul > li > p:first-child > strong:first-child {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+/* venue / status line, flush under the title */
+.papers > ul > li > p + p {
+  font-size: 13px;
+  line-height: 26px;
+  margin: 0;
+}
+
+/* awards, presentations, media */
+.papers > ul > li > ul {
+  list-style: disc;
+  margin: 2px 0 0;
+  padding-left: 40px;
+}
+
+.papers > ul > li > ul > li {
+  font-size: 13px;
+  line-height: 26px;
+  margin: 0;
+}
+
+/* ---------- footer ------------------------------------------------------ */
+
+.site-footer {
+  border-top: 1px solid var(--rule);
+  padding: 26px 40px 34px;
+  text-align: center;
+}
+
+.site-footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.site-footer a {
+  font-family: var(--display);
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.site-footer a:hover { text-decoration: underline; }
+
+/* ---------- responsive --------------------------------------------------- */
+
+@media (max-width: 900px) {
+  .site-header { padding: 5px 20px; }
+  .site-header .bar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    min-height: 0;
+    padding: 12px 0;
+  }
+  .logo { flex: none; font-size: 16px; white-space: normal; }
+  .site-nav { justify-content: flex-start; gap: 20px; }
+  .hero .inner { flex-direction: column; padding: 150px 20px 40px; }
+  .profile-links { text-align: left; margin-top: 24px; font-size: 16px; }
+  .content { padding: 40px 20px; }
+  .content h2 { font-size: 24px; }
+  .content.big-headings h2 { font-size: 26px; }
+  .content ul,
+  .papers > ul > li > ul { padding-left: 24px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+  .hero video { display: none; }   /* fall back to the still frame */
+}
