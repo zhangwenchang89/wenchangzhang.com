@@ -10,15 +10,15 @@ is_teaching: true
 
 ## Kelley School of Business, Indiana University
 
--   Instructor (22 – present). K635, Structural Models and Estimation. \[[Syllabus](https://www.dropbox.com/s/2u2mb891ius8lsb/Syllabus_K635_public.docx?dl=0)\]
--   Instructor (19 – present). K353, Business Analytics and Modeling (with R).
+-   Instructor (22 – present): K635, Structural Models and Estimation. ([Syllabus](https://www.dropbox.com/s/2u2mb891ius8lsb/Syllabus_K635_public.docx?dl=0))
+-   Instructor (19 – present): K353, Business Analytics and Modeling (with R).
 
 ## Robert H. Smith School of Business, University of Maryland
 
--   Instructor (19). BMGT 332, Operations Research for Management Decisions.
--   Instructor (17). BMGT 230, Business Statistics.
--   Co-Instructor (17). BMGT 332, Operations Research for Management Decisions.
+-   Instructor (19): BMGT 332, Operations Research for Management Decisions.
+-   Instructor (17): BMGT 230, Business Statistics.
+-   Co-Instructor (17): BMGT 332, Operations Research for Management Decisions.
 
 ## University of California, Berkeley
 
--   Graduate Student Instructor (13). STAT 153, Time Series (Lab Sessions).
+-   Graduate Student Instructor (13): STAT 153, Time Series (Lab Sessions).

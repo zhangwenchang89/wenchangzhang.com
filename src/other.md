@@ -43,7 +43,7 @@ big_headings: true
 
 ## Invited Seminars
 
--   2025. Rideshare Seminar @Lyft; Cornell; University of Wisconsin
+-   2025\. Rideshare Seminar @Lyft; Cornell; University of Wisconsin
 -   2023-24. Nanyang Technological University; Rotman Young Scholar Seminar Series; Peking University HSBC Business School
 -   2021-22. Indiana University, Kelley School of Business (ODT Brown Bag); Consortium Friday Seminars – Spring Series; Fudan School of Management; Huazhong University of Science and Technology; Data Bytes Seminar @TikTok.com
 -   2018-19. Yale, School of Management; Indiana University, Kelley School of Business
