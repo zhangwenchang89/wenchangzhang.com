@@ -22,7 +22,7 @@ $endif$<link rel="canonical" href="https://www.wenchangzhang.com/$canonical$">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;700&family=Lora:wght@400;500&family=Montserrat:wght@400;500;700&display=swap">
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="assets/style.css">
 $if(is_research)$
 <script type="application/ld+json">
 {
@@ -60,24 +60,24 @@ $endif$</head>
 
 <header class="site-header">
   <div class="bar">
-    <h1 class="logo"><a href="/">Wenchang Zhang 张文昌</a></h1>
+    <h1 class="logo"><a href="./">Wenchang Zhang 张文昌</a></h1>
     <nav aria-label="Main">
       <ul class="site-nav">
-        <li><a href="/"$if(is_research)$ aria-current="page"$endif$>Research</a></li>
-        <li><a href="/teaching.html"$if(is_teaching)$ aria-current="page"$endif$>Teaching</a></li>
-        <li><a href="/other.html"$if(is_other)$ aria-current="page"$endif$>Other</a></li>
+        <li><a href="./"$if(is_research)$ aria-current="page"$endif$>Research</a></li>
+        <li><a href="teaching.html"$if(is_teaching)$ aria-current="page"$endif$>Teaching</a></li>
+        <li><a href="other.html"$if(is_other)$ aria-current="page"$endif$>Other</a></li>
       </ul>
     </nav>
   </div>
 </header>
 
-<section class="hero" style="background-image:url('/assets/hero-$hero$.jpg')">
-  <video autoplay loop muted playsinline poster="/assets/hero-$hero$.jpg" aria-hidden="true" tabindex="-1">
-    <source src="/assets/hero-$hero$.mp4" type="video/mp4">
+<section class="hero" style="background-image:url('assets/hero-$hero$.jpg')">
+  <video autoplay loop muted playsinline poster="assets/hero-$hero$.jpg" aria-hidden="true" tabindex="-1">
+    <source src="assets/hero-$hero$.mp4" type="video/mp4">
   </video>
   <div class="inner">
 $if(is_research)$
-    <img src="/assets/headshot.jpg" width="185" height="185" alt="Wenchang Zhang">
+    <img src="assets/headshot.jpg" width="185" height="185" alt="Wenchang Zhang">
     <div class="profile-links">
       <a href="https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=WENCZHAN">Official Website</a><br>
       <a href="https://scholar.google.com/citations?user=IVK3-cAAAAAJ">Google Scholar</a><br>
@@ -94,9 +94,9 @@ $body$
 
 <footer class="site-footer">
   <ul>
-    <li><a href="/">Research</a></li>
-    <li><a href="/teaching.html">Teaching</a></li>
-    <li><a href="/other.html">Other</a></li>
+    <li><a href="./">Research</a></li>
+    <li><a href="teaching.html">Teaching</a></li>
+    <li><a href="other.html">Other</a></li>
   </ul>
 </footer>
 
