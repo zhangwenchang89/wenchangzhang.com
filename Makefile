@@ -10,26 +10,38 @@ PANDOC   := pandoc
 TEMPLATE := template.html
 PAGES    := index.html students.html teaching.html other.html
 
+# Cache busting. GitHub Pages serves assets with cache-control: max-age=600,
+# and a browser caches the HTML and the stylesheet independently — so a visitor
+# holding an old style.css against new markup sees a broken page for up to ten
+# minutes. Stamping a content hash into the URL makes any change a new resource.
+# The page targets depend on these files, so editing either re-stamps the HTML.
+CSS      := assets/style.css
+JS       := assets/network.js
+CSSVER   := $(shell shasum -a 256 $(CSS) | cut -c1-8)
+JSVER    := $(shell shasum -a 256 $(JS) | cut -c1-8)
+
 PANDOC_FLAGS := --from markdown+fenced_divs+bracketed_spans+header_attributes \
                 --to html5 \
                 --template=$(TEMPLATE) \
                 --standalone \
-                --wrap=none
+                --wrap=none \
+                --variable cssver=$(CSSVER) \
+                --variable jsver=$(JSVER)
 
 .PHONY: all serve clean check
 
 all: $(PAGES) sitemap.xml
 
-index.html: src/index.md $(TEMPLATE)
+index.html: src/index.md $(TEMPLATE) $(CSS) $(JS)
 	$(PANDOC) $(PANDOC_FLAGS) -o $@ $<
 
-students.html: src/students.md $(TEMPLATE)
+students.html: src/students.md $(TEMPLATE) $(CSS) $(JS)
 	$(PANDOC) $(PANDOC_FLAGS) -o $@ $<
 
-teaching.html: src/teaching.md $(TEMPLATE)
+teaching.html: src/teaching.md $(TEMPLATE) $(CSS) $(JS)
 	$(PANDOC) $(PANDOC_FLAGS) -o $@ $<
 
-other.html: src/other.md $(TEMPLATE)
+other.html: src/other.md $(TEMPLATE) $(CSS) $(JS)
 	$(PANDOC) $(PANDOC_FLAGS) -o $@ $<
 
 # Regenerated on every build so lastmod always reflects the build date.
