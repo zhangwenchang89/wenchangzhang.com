@@ -64,6 +64,7 @@ $endif$</head>
     <nav aria-label="Main">
       <ul class="site-nav">
         <li><a href="./"$if(is_research)$ aria-current="page"$endif$>Research</a></li>
+        <li><a href="students.html"$if(is_students)$ aria-current="page"$endif$>Doctoral Students</a></li>
         <li><a href="teaching.html"$if(is_teaching)$ aria-current="page"$endif$>Teaching</a></li>
         <li><a href="other.html"$if(is_other)$ aria-current="page"$endif$>Other</a></li>
       </ul>
@@ -71,11 +72,13 @@ $endif$</head>
   </div>
 </header>
 
-<section class="hero" style="background-image:url('assets/hero-$hero$.jpg')">
+$if(hero_canvas)$<section class="hero hero-generated">
+  <canvas class="hero-canvas" aria-hidden="true"></canvas>
+$else$<section class="hero" style="background-image:url('assets/hero-$hero$.jpg')">
   <video autoplay loop muted playsinline poster="assets/hero-$hero$.jpg" aria-hidden="true" tabindex="-1">
     <source src="assets/hero-$hero$.mp4" type="video/mp4">
   </video>
-  <div class="inner">
+$endif$  <div class="inner">
 $if(is_research)$
     <img src="assets/headshot.jpg" width="185" height="185" alt="Wenchang Zhang">
     <div class="profile-links">
@@ -95,10 +98,13 @@ $body$
 <footer class="site-footer">
   <ul>
     <li><a href="./">Research</a></li>
+    <li><a href="students.html">Doctoral Students</a></li>
     <li><a href="teaching.html">Teaching</a></li>
     <li><a href="other.html">Other</a></li>
   </ul>
 </footer>
-
+$if(hero_canvas)$
+<script src="assets/network.js"></script>
+$endif$
 </body>
 </html>

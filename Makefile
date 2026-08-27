@@ -8,7 +8,7 @@
 
 PANDOC   := pandoc
 TEMPLATE := template.html
-PAGES    := index.html teaching.html other.html
+PAGES    := index.html students.html teaching.html other.html
 
 PANDOC_FLAGS := --from markdown+fenced_divs+bracketed_spans+header_attributes \
                 --to html5 \
@@ -23,6 +23,9 @@ all: $(PAGES) sitemap.xml
 index.html: src/index.md $(TEMPLATE)
 	$(PANDOC) $(PANDOC_FLAGS) -o $@ $<
 
+students.html: src/students.md $(TEMPLATE)
+	$(PANDOC) $(PANDOC_FLAGS) -o $@ $<
+
 teaching.html: src/teaching.md $(TEMPLATE)
 	$(PANDOC) $(PANDOC_FLAGS) -o $@ $<
 
@@ -35,6 +38,7 @@ sitemap.xml: $(PAGES)
 	  '<?xml version="1.0" encoding="UTF-8"?>' \
 	  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' \
 	  '  <url><loc>https://www.wenchangzhang.com/</loc><lastmod>'"$$(date +%F)"'</lastmod><priority>1.0</priority></url>' \
+	  '  <url><loc>https://www.wenchangzhang.com/students.html</loc><lastmod>'"$$(date +%F)"'</lastmod><priority>0.8</priority></url>' \
 	  '  <url><loc>https://www.wenchangzhang.com/teaching.html</loc><lastmod>'"$$(date +%F)"'</lastmod><priority>0.7</priority></url>' \
 	  '  <url><loc>https://www.wenchangzhang.com/other.html</loc><lastmod>'"$$(date +%F)"'</lastmod><priority>0.7</priority></url>' \
 	  '</urlset>' > $@
