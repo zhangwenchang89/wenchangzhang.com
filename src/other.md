@@ -41,23 +41,6 @@ big_headings: true
 -   *M&SOM* Meritorious Service Award, 2024, 2025
 -   *Management Science* Distinguished Service Award, 2023
 
-## Ph.D. Students
-
-### Current
-
--   Jieqi Di, Georgia Institute of Technology
--   Yu Guo, University of Science and Technology of China
--   Mengfei Li, Fudan University
--   Ling Li, Indiana University
--   Wanling Rong, Indiana University
--   Feifei Song, The Hong Kong Polytechnic University
--   Xinmeng Xu, Tianjin University
--   Zhanzhi Zheng, University of North Carolina at Chapel Hill
-
-### Graduated
-
--   Zhikun Lu, Emory University (Assistant Professor at New York University, Shanghai)
-
 ## Invited Seminars
 
 -   2025\. Rideshare Seminar @Lyft; Cornell; University of Wisconsin
