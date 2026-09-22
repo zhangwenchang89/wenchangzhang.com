@@ -53,6 +53,14 @@ online marketplaces, artificial intelligence, and emerging digital technologies.
     -   Student coauthor: **Feifei Song**, The Hong Kong Polytechnic University
     -   livestreaming commerce · gig work · emotional labor · worker productivity
     -   natural experiment · causal inference · stream-level panel data
+
+-   **Making the Most of Limited Teacher Time: Personalized Intervention in Online Education**, with Ling Li, [Owen Wu](https://owenwu.pages.iu.edu/), and [Christopher Chen](https://www.christopherjchen.com/).
+
+    Under Review, *Manufacturing & Service Operations Management*.
+
+    -   Student coauthor: **Ling Li**, Indiana University
+    -   online education · teacher intervention · limited teacher capacity · personalization
+    -   machine learning prediction · capacity-constrained scheduling · randomized field experiment
 :::
 
 ## What we work on

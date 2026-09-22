@@ -36,6 +36,10 @@ Student co-authors are highlighted with \*.
 
     -   Winner, Professor Andy Yeung 2026 Best Paper Award, The Hong Kong Polytechnic University
 
+-   **Making the Most of Limited Teacher Time: Personalized Intervention in Online Education**, with Ling Li\*, [Owen Wu](https://owenwu.pages.iu.edu/), and [Christopher Chen](https://www.christopherjchen.com/).
+
+    Under Review, *Manufacturing & Service Operations Management*.
+
 -   **Can AI Replace Human Judgment in Marketplace Operations? Evidence from Keyword Auction Campaigns**, with [Ken Moon](https://oid.wharton.upenn.edu/profile/kenmoon/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6870063)\]
 
     Under Review, *Management Science*.
