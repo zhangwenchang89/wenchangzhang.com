@@ -48,7 +48,7 @@ online marketplaces, artificial intelligence, and emerging digital technologies.
     -   small and medium manufacturers · learning by doing · production lead times · digitalization
     -   duration models · panel econometrics · order-level ERP data
 
--   **When Workloads Are Emotional Labor: An Empirical Study of Livestreaming Productivity**, with Feifei Song, [Shenyang Jiang](https://www.polyu.edu.hk/lms/people/academic-staff/shenyang-jiang/), and [Ken Moon](https://oid.wharton.upenn.edu/profile/kenmoon/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5198270)\]
+-   **When Workloads Are Emotional Labor: An Empirical Study of Livestreaming Productivity**, with Feifei Song, [Shenyang Jiang](https://www.polyu.edu.hk/lms/people/academic-staff/shenyang-jiang/), and [Ken Moon](https://business.cornell.edu/profiles/khm57/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5198270)\]
 
     -   Student coauthor: **Feifei Song**, The Hong Kong Polytechnic University
     -   livestreaming commerce · gig work · emotional labor · worker productivity

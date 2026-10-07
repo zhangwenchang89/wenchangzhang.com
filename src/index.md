@@ -32,7 +32,7 @@ Student co-authors are highlighted with \*.
 :::
 
 ::: papers
--   **When Workloads Are Emotional Labor: An Empirical Study of Livestreaming Productivity**, with Feifei Song\*, [Shenyang Jiang](https://www.polyu.edu.hk/lms/people/academic-staff/shenyang-jiang/), and [Ken Moon](https://oid.wharton.upenn.edu/profile/kenmoon/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5198270)\]
+-   **When Workloads Are Emotional Labor: An Empirical Study of Livestreaming Productivity**, with Feifei Song\*, [Shenyang Jiang](https://www.polyu.edu.hk/lms/people/academic-staff/shenyang-jiang/), and [Ken Moon](https://business.cornell.edu/profiles/khm57/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5198270)\]
 
     -   Winner, Professor Andy Yeung 2026 Best Paper Award, The Hong Kong Polytechnic University
 
@@ -40,7 +40,7 @@ Student co-authors are highlighted with \*.
 
     Under Review, *Manufacturing & Service Operations Management*.
 
--   **Can AI Replace Human Judgment in Marketplace Operations? Evidence from Keyword Auction Campaigns**, with [Ken Moon](https://oid.wharton.upenn.edu/profile/kenmoon/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6870063)\]
+-   **Can AI Replace Human Judgment in Marketplace Operations? Evidence from Keyword Auction Campaigns**, with [Ken Moon](https://business.cornell.edu/profiles/khm57/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6870063)\]
 
     Under Review, *Management Science*.
 
@@ -98,7 +98,7 @@ Student co-authors are highlighted with \*.
 
     -   Media: [运筹OR帷幄](https://mp.weixin.qq.com/s/nLUKDXh2N-z1PhTWOdHLZQ).
 
--   **Managing Market Thickness in Online Business-to-Business Markets**, with [Kostas Bimpikis](http://stanford.edu/~kostasb/), [Wedad Elmaghraby](https://www.rhsmith.umd.edu/directory/wedad-j-elmaghraby), and [Ken Moon](https://oid.wharton.upenn.edu/profile/kenmoon/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3442379)\]
+-   **Managing Market Thickness in Online Business-to-Business Markets**, with [Kostas Bimpikis](http://stanford.edu/~kostasb/), [Wedad Elmaghraby](https://www.rhsmith.umd.edu/directory/wedad-j-elmaghraby), and [Ken Moon](https://business.cornell.edu/profiles/khm57/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3442379)\]
 
     *Management Science*, 66(12), 2020.
 
