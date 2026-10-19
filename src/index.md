@@ -32,6 +32,8 @@ Student co-authors are highlighted with \*.
 :::
 
 ::: papers
+-   **Can AI Replace Human Judgment in Marketplace Operations? Evidence from Keyword Auction Campaigns**, with [Ken Moon](https://business.cornell.edu/profiles/khm57/), Rohit Dhonukshe, Binbin Li, Kun-hua Tu, Hansi Wu, and Jinyu Zhao. \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6870063)\]
+
 -   **When Workloads Are Emotional Labor: An Empirical Study of Livestreaming Productivity**, with Feifei Song\*, [Shenyang Jiang](https://www.polyu.edu.hk/lms/people/academic-staff/shenyang-jiang/), and [Ken Moon](https://business.cornell.edu/profiles/khm57/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5198270)\]
 
     -   Winner, Professor Andy Yeung 2026 Best Paper Award, The Hong Kong Polytechnic University
@@ -39,8 +41,6 @@ Student co-authors are highlighted with \*.
 -   **Making the Most of Limited Teacher Time: Personalized Intervention in Online Education**, with Ling Li\*, [Owen Wu](https://owenwu.pages.iu.edu/), and [Christopher Chen](https://www.christopherjchen.com/).
 
     Under Review, *Manufacturing & Service Operations Management*.
-
--   **Can AI Replace Human Judgment in Marketplace Operations? Evidence from Keyword Auction Campaigns**, with [Ken Moon](https://business.cornell.edu/profiles/khm57/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6870063)\]
 
 -   **Learning by Doing in SME Manufacturing**, with Mengfei Li\*, [Yue Cheng](https://en.em-lyon.com.cn/faculty/view/128), [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index), and [Xiaole Wu](https://scholar.google.com/citations?user=tc1fwTEAAAAJ&hl=en). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5273302)\]
 
