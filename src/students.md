@@ -32,7 +32,7 @@ online marketplaces, artificial intelligence, and emerging digital technologies.
 
     Forthcoming, *Manufacturing & Service Operations Management*.
 
-    -   Student coauthor: **Yu Guo**, University of Science and Technology of China
+    -   Student coauthor: **Yu Guo**, The Chinese University of Hong Kong
     -   on-demand delivery · buy-online-pick-up-in-store · channel design · courier labor
     -   game-theoretic modeling · equilibrium analysis · welfare analysis
 :::
@@ -53,6 +53,14 @@ online marketplaces, artificial intelligence, and emerging digital technologies.
     -   Student coauthor: **Feifei Song**, The Hong Kong Polytechnic University
     -   livestreaming commerce · gig work · emotional labor · worker productivity
     -   natural experiment · causal inference · stream-level panel data
+
+-   **Delegation at the Doorstep: Courier Negotiation and Locker Pricing in On-Demand Delivery**, with Yu Guo, [Fei Gao](https://sites.google.com/view/feigao/home), and [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index).
+
+    Under Review, *Management Science*.
+
+    -   Student coauthor: **Yu Guo**, The Chinese University of Hong Kong
+    -   on-demand delivery · food lockers · courier negotiation · locker pricing
+    -   stylized modeling · nonlinear least squares estimation · order-level platform data
 
 -   **Making the Most of Limited Teacher Time: Personalized Intervention in Online Education**, with Ling Li, [Owen Wu](https://owenwu.pages.iu.edu/), and [Christopher Chen](https://www.christopherjchen.com/).
 
@@ -139,6 +147,6 @@ interest:
 ![](assets/collaborators-map.svg "Cities where Wenchang Zhang's doctoral collaborators are based"){.map}
 
 ::: caption
-Nine current and former doctoral collaborators, at institutions in seven cities
+Nine current and former doctoral collaborators, at institutions in six cities
 across two continents.
 :::

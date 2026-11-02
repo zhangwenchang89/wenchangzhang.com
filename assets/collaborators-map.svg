@@ -4,7 +4,6 @@
 <circle cx="280.4" cy="116.9" r="7.3" fill="#a82e2e" stroke="#ffffff" stroke-width="2"><title>Chapel Hill</title></circle>
 <circle cx="265.6" cy="122.9" r="7.3" fill="#a82e2e" stroke="#ffffff" stroke-width="2"><title>Atlanta</title></circle>
 <circle cx="826.0" cy="107.4" r="7.3" fill="#a82e2e" stroke="#ffffff" stroke-width="2"><title>Tianjin</title></circle>
-<circle cx="825.6" cy="128.3" r="7.3" fill="#a82e2e" stroke="#ffffff" stroke-width="2"><title>Hefei</title></circle>
 <circle cx="837.4" cy="129.9" r="9.1" fill="#a82e2e" stroke="#ffffff" stroke-width="2"><title>Shanghai</title></circle>
-<circle cx="817.1" cy="154.7" r="7.3" fill="#a82e2e" stroke="#ffffff" stroke-width="2"><title>Hong Kong</title></circle>
+<circle cx="817.1" cy="154.7" r="9.1" fill="#a82e2e" stroke="#ffffff" stroke-width="2"><title>Hong Kong</title></circle>
 </svg>
