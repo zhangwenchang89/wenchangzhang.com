@@ -32,7 +32,7 @@ online marketplaces, artificial intelligence, and emerging digital technologies.
 
     Forthcoming, *Manufacturing & Service Operations Management*.
 
-    -   Student coauthor: **Yu Guo**, The Chinese University of Hong Kong
+    -   Student coauthor: **Yu Guo**, University of Science and Technology of China (Postdoctoral Fellow at The Chinese University of Hong Kong)
     -   on-demand delivery · buy-online-pick-up-in-store · channel design · courier labor
     -   game-theoretic modeling · equilibrium analysis · welfare analysis
 :::
@@ -58,7 +58,7 @@ online marketplaces, artificial intelligence, and emerging digital technologies.
 
     Under Review, *Management Science*.
 
-    -   Student coauthor: **Yu Guo**, The Chinese University of Hong Kong
+    -   Student coauthor: **Yu Guo**, University of Science and Technology of China (Postdoctoral Fellow at The Chinese University of Hong Kong)
     -   on-demand delivery · food lockers · courier negotiation · locker pricing
     -   stylized modeling · nonlinear least squares estimation · order-level platform data
 
