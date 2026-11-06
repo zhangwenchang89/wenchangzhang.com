@@ -38,7 +38,7 @@ Student co-authors are highlighted with \*.
 
     -   Winner, Professor Andy Yeung 2026 Best Paper Award, The Hong Kong Polytechnic University
 
--   **Delegation at the Doorstep: Courier Negotiation and Locker Pricing in On-Demand Delivery**, with Yu Guo\*, [Fei Gao](https://sites.google.com/view/feigao/home), and [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index).
+-   **Delegation at the Doorstep: Courier Negotiation and Locker Pricing in On-Demand Delivery**, with [Yu Guo](https://joeyyuguo.github.io/)\*, [Fei Gao](https://sites.google.com/view/feigao/home), and [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index).
 
     Under Review, *Management Science*.
 
@@ -70,11 +70,11 @@ Student co-authors are highlighted with \*.
     -   Finalist, 2024 POMS College of Operational Excellence Junior Scholar Best Paper Competition.
     -   Selected for presentation at [Wharton Empirical OM Workshop 2022](https://www.dropbox.com/s/8o8asq0hb69v4n5/FINAL%20Workshop%20on%20Empirical%20Research%20in%20Operations%20Management%20%28Poster%20%28Portrait%29%29%20%288.5%20%C3%97%2011%20in%29%20%281%29.pdf?dl=0), [Marketplace Innovation Workshop 2022](http://marketplaceinnovation.net/2022/index.html), KDD 2023, [TALENT Workshop 2025](https://sites.gatech.edu/talent-2025/friday-may-30/), [Northwestern/USC Research Roundtable on Platform Dynamics 2026](https://www.dropbox.com/scl/fi/5ey740l1riwrxj7iiv9kn/platform_dynamics_2026_agenda.pdf?rlkey=rhd4g1sr3v8571lvft18p32os&dl=0).
 
--   **Omnichannel Operations in On-Demand Delivery Platform with Buy-Online-and-Pick-up-in-Store**, with Yu Guo\*, [Fei Gao](https://sites.google.com/view/feigao/home), and [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862038)\]
+-   **Omnichannel Operations in On-Demand Delivery Platform with Buy-Online-and-Pick-up-in-Store**, with [Yu Guo](https://joeyyuguo.github.io/)\*, [Fei Gao](https://sites.google.com/view/feigao/home), and [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862038)\]
 
     Forthcoming, *Manufacturing & Service Operations Management*.
 
-    -   3rd Place, 2024 POMS-China Best Student Paper Award (for Yu Guo).
+    -   3rd Place, 2024 POMS-China Best Student Paper Award (for [Yu Guo](https://joeyyuguo.github.io/)).
 
 -   **Reducing Traffic Incidents in Meal Deliveries: Penalize the Platform or its Independent Drivers?** with [Christopher S. Tang](https://www.anderson.ucla.edu/faculty-and-research/decisions-operations-and-technology-management/faculty/tang), [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index), and [Yue Cheng](https://en.em-lyon.com.cn/faculty/view/128). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231746)\]
 

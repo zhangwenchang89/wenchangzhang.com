@@ -22,7 +22,7 @@ big_headings: true
 -   Professor Andy Yeung Best Paper Award, The Hong Kong Polytechnic University (Winner), 2026
 -   INFORMS Service Science Best Cluster Paper Award (1st Place), 2025
 -   POMS-HK Best Student Paper Award (Honorable Mention for Mengfei Li), 2025
--   POMS-China Best Student Paper Award (3rd Place for Yu Guo), 2024
+-   POMS-China Best Student Paper Award (3rd Place for [Yu Guo](https://joeyyuguo.github.io/)), 2024
 -   POMS College of Operational Excellence Junior Scholar Best Paper Competition (Finalist), 2024
 -   Kelley School of Business Research Award, 2024
 -   Ann G. Wylie Dissertation Fellowship, 2018

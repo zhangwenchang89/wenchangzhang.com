@@ -28,11 +28,11 @@ online marketplaces, artificial intelligence, and emerging digital technologies.
     -   food delivery platforms · restaurant density · delivery speed · market thickness
     -   queueing theory · panel econometrics · platform transaction data
 
--   **Omnichannel Operations in On-Demand Delivery Platform with Buy-Online-and-Pick-up-in-Store**, with Yu Guo, [Fei Gao](https://sites.google.com/view/feigao/home), and [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862038)\]
+-   **Omnichannel Operations in On-Demand Delivery Platform with Buy-Online-and-Pick-up-in-Store**, with [Yu Guo](https://joeyyuguo.github.io/), [Fei Gao](https://sites.google.com/view/feigao/home), and [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862038)\]
 
     Forthcoming, *Manufacturing & Service Operations Management*.
 
-    -   Student coauthor: **Yu Guo**, University of Science and Technology of China (Postdoctoral Fellow at The Chinese University of Hong Kong)
+    -   Student coauthor: [**Yu Guo**](https://joeyyuguo.github.io/), University of Science and Technology of China (Postdoctoral Fellow at The Chinese University of Hong Kong)
     -   on-demand delivery · buy-online-pick-up-in-store · channel design · courier labor
     -   game-theoretic modeling · equilibrium analysis · welfare analysis
 :::
@@ -54,11 +54,11 @@ online marketplaces, artificial intelligence, and emerging digital technologies.
     -   livestreaming commerce · gig work · emotional labor · worker productivity
     -   natural experiment · causal inference · stream-level panel data
 
--   **Delegation at the Doorstep: Courier Negotiation and Locker Pricing in On-Demand Delivery**, with Yu Guo, [Fei Gao](https://sites.google.com/view/feigao/home), and [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index).
+-   **Delegation at the Doorstep: Courier Negotiation and Locker Pricing in On-Demand Delivery**, with [Yu Guo](https://joeyyuguo.github.io/), [Fei Gao](https://sites.google.com/view/feigao/home), and [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index).
 
     Under Review, *Management Science*.
 
-    -   Student coauthor: **Yu Guo**, University of Science and Technology of China (Postdoctoral Fellow at The Chinese University of Hong Kong)
+    -   Student coauthor: [**Yu Guo**](https://joeyyuguo.github.io/), University of Science and Technology of China (Postdoctoral Fellow at The Chinese University of Hong Kong)
     -   on-demand delivery · food lockers · courier negotiation · locker pricing
     -   stylized modeling · nonlinear least squares estimation · order-level platform data
 
