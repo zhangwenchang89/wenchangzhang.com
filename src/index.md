@@ -84,7 +84,7 @@ Student co-authors are highlighted with \*.
 
 -   **Marketplace Expansion Through Marquee Seller Adoption: Externalities and Reputation Implications**, with [Wedad Elmaghraby](https://www.rhsmith.umd.edu/directory/wedad-j-elmaghraby) and [Ashish Kabra](https://sites.google.com/view/ashishkabra). \[[PDF](https://www.dropbox.com/scl/fi/i8sspmrgmztwrk2ou8yup/MarketExpansion_final-manuscript.pdf?rlkey=0mb2o7644myd3b9msk8ytqow4&dl=0)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925847)\]
 
-    *Management Science*, 72(2), 2025.
+    *Management Science*, 72(2), 2026.
 
     -   Keynote presentation at INFORMS Workshop on Market Design 2021 (by Wedad Elmaghraby).
     -   Selected for presentation at [Wharton Empirical OM Workshop 2021](https://www.dropbox.com/s/gpgtdzsgcf894w8/EMPOM%20Agenda%202021.pdf?dl=0).
