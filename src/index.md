@@ -108,3 +108,11 @@ Student co-authors are highlighted with \*.
     -   Selected for presentation at Wharton Empirical OM Workshop 2017, [Marketplace Innovation Workshop 2017](http://marketplaceinnovation.net/2017/accepted.html).
     -   Media: [How retailers can make more money in online auctions](https://phys.org/news/2020-01-retailers-money-online-auctions.html), Phys.Org.
 :::
+
+## Book Chapter
+
+::: papers
+-   **Procurement**, with [Ruomeng Cui](http://ruomengcui.com/).
+
+    Forthcoming, *The Cambridge Handbook of the Business, Economics, and Law of Digital Platforms*, Cambridge University Press.
+:::
