@@ -46,6 +46,10 @@ Student co-authors are highlighted with \*.
 
     Under Review, *Manufacturing & Service Operations Management*.
 
+-   **Instructor-Designed AI Improves Learning in a Randomized Trial across 19 Universities**, with Jun Li, Robert Bray, Sébastien Martin, Nils Van den Steen, Andrew Wu, and 46 others.
+
+    Submitted to *Nature*.
+
 -   **Learning by Doing in SME Manufacturing**, with Mengfei Li\*, [Yue Cheng](https://en.em-lyon.com.cn/faculty/view/128), [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index), and [Xiaole Wu](https://scholar.google.com/citations?user=tc1fwTEAAAAJ&hl=en). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5273302)\]
 
     Reject & Resubmit Invited, *Management Science*.
