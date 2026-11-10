@@ -38,7 +38,7 @@ Student co-authors are highlighted with \*.
 
     -   Winner, Professor Andy Yeung 2026 Best Paper Award, The Hong Kong Polytechnic University
 
--   **Delegation at the Doorstep: Courier Negotiation and Locker Pricing in On-Demand Delivery**, with [Yu Guo](https://joeyyuguo.github.io/)\*, [Fei Gao](https://sites.google.com/view/feigao/home), and [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index).
+-   **Delegation at the Doorstep: Courier Negotiation and Locker Pricing in On-Demand Delivery**, with [Yu Guo](https://joeyyuguo.github.io/)\*, [Fei Gao](https://sites.google.com/view/feigao/home), and [Liu Ming](https://myweb.cuhk.edu.cn/mingliu/Home/Index). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7684620)\]
 
     Under Review, *Management Science*.
 
