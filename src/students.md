@@ -147,6 +147,6 @@ interest:
 ![](assets/collaborators-map.svg "Cities where Wenchang Zhang's doctoral collaborators are based"){.map}
 
 ::: caption
-Nine current and former doctoral collaborators, at institutions in six cities
+Ten current and former doctoral collaborators, at institutions in six cities
 across two continents.
 :::

@@ -28,7 +28,7 @@ RING = "#ffffff"
 
 # City, lat, lon, how many collaborators are based there.
 CITIES = [
-    ("Bloomington", 39.1653, -86.5264, 2),
+    ("Bloomington", 39.1653, -86.5264, 3),
     ("Chapel Hill", 35.9132, -79.0558, 1),
     ("Atlanta", 33.7490, -84.3880, 1),
     ("Tianjin", 39.3434, 117.3616, 1),
