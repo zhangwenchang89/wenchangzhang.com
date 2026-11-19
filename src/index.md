@@ -34,6 +34,8 @@ Student co-authors are highlighted with \*.
 ::: papers
 -   **Can AI Replace Human Judgment in Marketplace Operations? Evidence from Keyword Auction Campaigns**, with [Ken Moon](https://business.cornell.edu/profiles/khm57/), Rohit Dhonukshe, Binbin Li, Kun-hua Tu, Hansi Wu, and Jinyu Zhao. \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6870063)\]
 
+    To be submitted to *Manufacturing & Service Operations Management*.
+
 -   **When Workloads Are Emotional Labor: An Empirical Study of Livestreaming Productivity**, with Feifei Song\*, [Shenyang Jiang](https://www.polyu.edu.hk/lms/people/academic-staff/shenyang-jiang/), and [Ken Moon](https://business.cornell.edu/profiles/khm57/). \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5198270)\]
 
     -   Winner, Professor Andy Yeung 2026 Best Paper Award, The Hong Kong Polytechnic University

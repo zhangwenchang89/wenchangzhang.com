@@ -43,6 +43,7 @@ big_headings: true
 
 ## Invited Seminars
 
+-   2026\. Renmin University of China; Northwestern/USC Research Roundtable on Platform Dynamics
 -   2025\. Rideshare Seminar @Lyft; Cornell; University of Wisconsin
 -   2023-24. Nanyang Technological University; Rotman Young Scholar Seminar Series; Peking University HSBC Business School
 -   2021-22. Indiana University, Kelley School of Business (ODT Brown Bag); Consortium Friday Seminars – Spring Series; Fudan School of Management; Huazhong University of Science and Technology; Data Bytes Seminar @TikTok.com
@@ -55,7 +56,8 @@ big_headings: true
 -   **Judge:** Best Working Paper Competition for TIMES Section of INFORMS (2023, 2026); INFORMS BOM Best Working Paper Competition (2025, 2026); INFORMS PSOR Paper Award Competition (2026); INFORMS Service Science Best Paper Competition (2026)
 -   **Co-organizer:** [Marketplace Innovation Workshop](https://marketplaceinnovation.net/) (2027)
 -   **Conference program committee:** MSOM (2021)
--   **Session chair:** INFORMS (2020 – present); POM (2023 – present)
+-   **Invited session organizer:** POMS (2027, two sessions)
+-   **Session chair:** INFORMS (2020 – present); POMS (2023 – present)
 
 ## Industry Collaboration {.small-heading}
 
