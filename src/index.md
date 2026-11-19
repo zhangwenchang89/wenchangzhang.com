@@ -46,7 +46,7 @@ Student co-authors are highlighted with \*.
 
     Under Review, *Manufacturing & Service Operations Management*.
 
--   **Instructor-Designed AI Improves Learning in a Randomized Trial across 19 Universities**, with Jun Li, Robert Bray, Sébastien Martin, Nils Van den Steen, Andrew Wu, and 46 others.
+-   **Instructor-Designed AI Improves Learning in a Randomized Trial across 19 Universities**, with Jun Li, Robert Bray, Sébastien Martin, Nils Van den Steen, Andrew Wu, and 46 others. \[[arXiv](https://arxiv.org/abs/2611.19099)\]
 
     Under Review, *Nature*.
 
